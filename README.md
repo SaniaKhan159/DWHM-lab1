@@ -1,2 +1,2 @@
-# DWHM-lab1
+# DWHM-labs
 16SW159
